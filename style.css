@@ -1,0 +1,47 @@
+body {
+	background-color: #212121;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+h2 {
+	color: white;
+	font-family: Arial, sans-serif;
+	
+}
+
+h3 {
+	color: white;
+	font-family: Arial, sans-serif;
+}
+
+header, footer {
+	background-color: #333;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+main {
+	text-align: center;
+}
+
+ul {
+	display: inline-block;
+	text-align: left;
+	color: white;
+}
+
+img {
+	max-width: 300px;
+	border-radius: 10px;
+}
+
+a {
+	color: cyan;
+}
+
+h5 {
+	color: white;
+	font-family: Arial, sans-serif;
+}
